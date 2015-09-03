@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- grayscale -->
+    <color name="white">#FFFFFF</color>
+    <color name="gray_light">#eaeaea</color>
+    <color name="gray">#939393</color>
+    <color name="gray_dark">#5F5F5F</color>
+    <color name="black">#000000</color>
+
+    <!-- basic colors -->
+    <color name="green">#27D34D</color>
+    <color name="blue">#2A91BD</color>
+    <color name="blue_light">#2095f3</color>
+    <color name="blue_dark">#2089F3</color>
+    <color name="blue_darker">#004358</color>
+    <color name="orange">#fd7400</color>
+    <color name="red">#FF432F</color>
+    <color name="green_transparent">#8027D34D</color>
+
+    <color name="primary">#3f5770</color>
+    <color name="primary_dark">#2c3e4f</color>
+
+</resources>
